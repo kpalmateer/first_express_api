@@ -1,0 +1,9 @@
+{
+  "name": "hello-api",
+  "description": "hello world api",
+  "author": "Kyle Palmateer",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
